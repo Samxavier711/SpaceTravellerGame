@@ -1,0 +1,19 @@
+This project implements a Flappy Bird game where an agent learns to play using reinforcement learning. 
+The agent, represented by a neural network, learns to navigate through the pipes by receiving feedback in 
+the form of rewards.
+
+Features
+    - Reinforcement learning using [algorithm/library]
+    - Neural network-based agent
+    - Flappy Bird game environment
+    - Training and evaluation scripts
+
+We have used NEAT algorithm for reinforcement learning.
+
+The NEAT (NeuroEvolution of Augmenting Topologies) library in Python is a popular and powerful tool for 
+implementing neuroevolution algorithms. Neuroevolution is a type of artificial intelligence (AI) that involves 
+evolving neural networks through evolutionary algorithms.
+
+NEAT is particularly useful for evolving neural networks with varying architectures, allowing the algorithm
+to discover complex and effective network structures. The key idea behind NEAT is to start with a populatio
+of simple neural networks and evolve both the weights and structures of these networks over generations.
